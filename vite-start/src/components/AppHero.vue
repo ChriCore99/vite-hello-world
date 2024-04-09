@@ -10,7 +10,7 @@ export default{
 
 <template>
 <div id="AppHero">
-    <img src="../public/1618197067vitejs.webp" alt="">
+    <img src="../../public/1618197067vitejs.webp" alt="">
 </div>
 </template>
 
